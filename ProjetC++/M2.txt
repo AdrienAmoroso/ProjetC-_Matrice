@@ -1,8 +1,0 @@
-TypeMatrice=DoUbLe
-NombreLigne=3
-NombreCOlonne=3
-Matrice=[
-2 0 0
-0 2 0
-0 0 2
-]
