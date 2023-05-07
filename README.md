@@ -47,6 +47,6 @@ _exemple_: Exécutez la commande ``ProjetC++ M1.txt M2.txt M3.txt M4.txt`` et le
 ## Auteurs
 
 * **Valentin DESMARES** 
-* **Arien AMOROSO** 
+* **Adrien AMOROSO** 
 
 
