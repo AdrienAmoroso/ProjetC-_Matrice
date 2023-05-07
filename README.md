@@ -2,18 +2,18 @@
 
 L'objectif de ce projet est de réaliser une librairie de classes et fonctions permettant de manipuler des matrices d'éléments. 
 En effet, les classes réalisées permettent : 
-1. De créer des objets Matrices pour lequel le type d'éléments est quelconque.
-2. De faire des opération "élémentaires" sur une matrice
+1. De créer des objets Matrices pour lesquels le type d'éléments est quelconque.
+2. De faire des opérations "élémentaires" sur une matrice
 3. De faire des opération un peu plus complexe mettant en jeu plusieurs matrices
 4. De lire le contenu d'une matrice dans un fichier texte et de créer un objet matrice en mémoire pour stocker les données lues dans le fichier.
 
 
 ## Contraintes techniques 
 
-Pour la réalisation de votre projet nous avons respecté les quelques contraintes énoncées ci-dessous :
+Pour la réalisation de notre projet, nous avons respecté les quelques contraintes énoncées ci-dessous :
 1. Les variables, types, classes, fonction et méthodes respectent les conventions de nommage,
-2. Les bonnes pratiques du Génie Logiciel telles qu’elles ont pu être présentées lors des cours d’Algorithmes Orientés Objets et de Langages Orientés Objets ont été mises en œuvres.
-3. Nous avons intégré la gestion des exceptions dans notre programme : nous avons utilisé pour cela la classe Cexception vue en TPs,
+2. Les bonnes pratiques du Génie Logiciel telles qu’elles ont pu être présentées lors des cours d’Algorithmes Orientés Objets et de Langages Orientés Objets ont été mises en œuvre.
+3. Nous avons intégré la gestion des exceptions dans notre programme : nous avons utilisé pour cela la classe Cexception vue en TPs.
 4. Nous avons travaillé sous Visual Studio et notre projet est une application console win32.
 
 
@@ -28,15 +28,15 @@ Voici comment fonctionne le programme : il prend en argument des fichiers textes
 
 ## Pré-requis
 
-Aucun pré-requis n'est necessaire.
+Aucun pré-requis n'est nécessaire.
 
 
 ## Démarrage
 
-Une fois l'installation terminée, vous pouvez placer l'executable `` ProjetC++.exe`` où vous voulez.
-Ensuite, pour éxécuter correctement le programme il vous faut entrer dans le terminal le nom de l'executable puis le nom des fichiers textes que vous souhaitez lui passer en argument (attention à bien indiquer le chemin des fichiers textes s'ils ne sont pas dans le même répertoire que l'executable).
+Une fois l'installation terminée, vous pouvez placer l'exécutable `` ProjetC++.exe`` où vous voulez.
+Ensuite, pour exécuter correctement le programme, il vous faut entrer dans le terminal le nom de l'exécutable puis le nom des fichiers textes que vous souhaitez lui passer en argument (attention à bien indiquer le chemin des fichiers textes s'ils ne sont pas dans le même répertoire que l'exécutable).
 
-_exemple_: Executez la commande ``ProjetC++ M1.txt M2.txt M3.txt M4.txt`` et le programme s'executara avec les fichiers M1, M2, M3 et M4 en argument.
+_exemple_: Exécutez la commande ``ProjetC++ M1.txt M2.txt M3.txt M4.txt`` et le programme s'exécutara avec les fichiers M1, M2, M3 et M4 en argument.
 
 
 ## Développé avec
