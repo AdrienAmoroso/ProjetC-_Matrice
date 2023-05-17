@@ -37,14 +37,14 @@ TypeMatrice=<type_base_C>
 	<Ligne_NBLignes : autant d’éléments que de colonnes>  
 ]  
 _exemple_:  
-	TypeMatrice=int  
+	TypeMatrice=double  
 	NBLignes=2  
 	NBColonnes=3  
 	Matrice=[  
 	5 3 6  
 	1 -2 8  
 ]  
-
+De plus, il est important de noté que le programme ne gère que des matrices de type double.
 
 ## Pré-requis
 
