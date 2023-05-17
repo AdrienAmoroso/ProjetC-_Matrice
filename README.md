@@ -26,6 +26,26 @@ Voici comment fonctionne le programme : il prend en argument des fichiers textes
 4. Somme alternée des matrices : M1-M2+M3-M4+M5...
 5. Produit des matrices
 
+Les fichiers textes passés en paramètres devront être sous la forme suivante :
+TypeMatrice=<type_base_C>
+	NBLignes=<Nombre_de_lignes_de_la_matrice>
+	NBColonnes=<Nombre_de_colonnes_de_la_matrice>
+	Matrice=[
+	<Ligne_1 : autant d’éléments que de colonnes>
+	<Ligne_n : autant d’éléments que de colonnes>
+…
+	<Ligne_NBLignes : autant d’éléments que de colonnes>
+]
+Un exemple :
+	TypeMatrice=int
+	NBLignes=2
+	NBColonnes=3
+	Matrice=[
+	5 3 6
+	1 -2 8
+]
+
+
 ## Pré-requis
 
 Aucun pré-requis n'est nécessaire.
